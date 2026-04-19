@@ -106,28 +106,28 @@ Foods
 
         <div class="card">
 
-            <img src="images/beef burgar.jpg.jfif" alt="">
+            <img src="images/beef burgar.jpg" alt="">
             <h3>برجر لحم</h3>
             <p class="price">25 ريال</p>
             <button>اطلب الآن</button>
         </div>
 
         <div class="card">
-            <img src="images/pizza.jpg.jfif" alt="">
+            <img src="images/pizza.jpg" alt="">
             <h3>بيتزا</h3>
             <p class="price">30 ريال</p>
             <button>اطلب الآن</button>
         </div>
 
         <div class="card">
-            <img src="images/French fries.jpg.jfif" alt="">
+            <img src="images/French fries.jpg" alt="">
             <h3>بطاطس مقلية</h3>
             <p class="price">10 ريال</p>
             <button>اطلب الآن</button>
         </div>
 
         <div class="card">
-            <img src="images/orange juice.jpg.jfif" alt="">
+            <img src="images/orange juice.jpg" alt="">
             <h3>عصير برتقال</h3>
             <p class="price">12 ريال</p>
             <button>اطلب الآن</button>
